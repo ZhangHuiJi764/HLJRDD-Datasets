@@ -1,0 +1,35 @@
+{
+  "version": "5.3.0a0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liqing_kuaizhuang_xiubu",
+      "points": [
+        [
+          1768.8659793814434,
+          1113.2371134020618
+        ],
+        [
+          2047.2164948453608,
+          1112.2061855670104
+        ],
+        [
+          2030.721649484536,
+          1060.659793814433
+        ],
+        [
+          1788.4536082474226,
+          1063.7525773195875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "avt_2024_12_24___14_17_35_620_1985.jpg",
+  "imageData": null,
+  "imageHeight": 2544,
+  "imageWidth": 4080
+}
